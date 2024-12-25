@@ -23,7 +23,7 @@ else if(counter == 3){
     e.target.innerText = "Pindot pa"
 }
 else if(counter == 6){
-        e.target.innerText = "Malpit na mario at Maricar"
+        e.target.innerText = "Malpit na talaga yan!"
 
 }
 
